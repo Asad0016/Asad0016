@@ -1,12 +1,47 @@
-### 👋 Hi, Asad here
+# 👋 Hello, I'm Asad!
 
-I am an Embedded Systems and Firmware Developer focused on microcontroller-based applications like ESP32, STM32, and AVR. My work spans across wireless protocols such as BLE, Zigbee, and ESP-NOW.
+> "There are 10 types of people in the world: those who understand binary, and those who don’t." 😎
 
-🔧 Projects:
-- BLE-based wearable health tracker
-- ESP-NOW communication system
-- Zigbee-based smart home router
+Welcome to my GitHub world! Here, I work at the intersection of code and hardware, building smart and connected solutions using embedded systems and IoT technologies.
 
-💻 Tools: PlatformIO, VS Code, Arduino IDE
+---
 
-📫 Reach me: [asadali56656@gmaiul.com]
+## 🔧 About Me
+
+🎯 **Embedded Systems Developer** – I work with microcontrollers like ESP32, STM32, and AVR to build low-level firmware for real-time applications.
+
+📡 **IoT Enthusiast** – From BLE and ESP-NOW to Zigbee and MQTT, I integrate wireless protocols to bring devices online.
+
+🌐 **Cloud Integration** – I connect devices with cloud platforms for real-time monitoring and remote control.
+
+🛠 **Problem Solver** – I enjoy debugging, testing, and optimizing embedded systems to get the best performance.
+
+---
+
+## 💻 Languages & Technologies
+
+- **Languages**: C, C++, Python, JavaScript, QML
+- **Microcontrollers**: ESP32, STM32, NRF52, PIC, 8051, Raspberry Pi
+- **Protocols**: BLE, ESP-NOW, Zigbee, LoRa, MQTT
+- **IDEs & Tools**: VS Code, PlatformIO, STM32CubeIDE, Arduino IDE, Keil, MPLAB, NRF Connect
+- **Clouds**: AWS IoT, Google Cloud
+- **Databases**: PostgreSQL, Firebase
+
+---
+
+## 📸 Preview
+
+![GitHub Banner](https://your-image-link-here.com/banner.png) <!-- Replace with your actual image URL -->
+
+---
+
+### 🔗 Let's Connect
+
+- 📧 Email: your.email@example.com  
+- 🌐 Portfolio: [YourWebsite.com](https://yourwebsite.com)  
+- 📝 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
+
+Thanks for visiting my profile!
+
