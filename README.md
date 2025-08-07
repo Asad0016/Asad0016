@@ -1,42 +1,51 @@
+![GitHub Banner](./banner.png) <!-- Replace with your banner image filename -->
+
 # 👋 ASAD ULLAH: EMBEDDED FIRMWARE ENGINEER
 
->"Never Give Up" 😎
-## 📸 Preview
+> *"Never Give Up"* 😎
 
 ---
-Welcome to my GitHub world! Here, I work at the intersection of code and hardware, building smart and connected solutions using embedded systems and IoT technologies.
+
+## 📸 Preview
+
+Welcome to my GitHub profile! I specialize in embedded systems and firmware development, combining hardware and software to create intelligent, connected solutions. Whether it's IoT devices, wireless communication, or real-time embedded applications — this is where innovation happens.
 
 ---
 
 ## 🔧 About Me
 
-🎯 **Embedded Systems Developer** – I work with microcontrollers like ESP32, STM32, and AVR to build low-level firmware for real-time applications.
+- 🎯 **Embedded Systems Developer**  
+   Experienced with microcontrollers like **ESP32**, **STM32**, and **AVR**, focused on writing efficient low-level firmware for real-time systems.
 
-📡 **IoT Enthusiast** – From BLE and ESP-NOW to Zigbee and MQTT, I integrate wireless protocols to bring devices online.
+- 📡 **IoT Integrator**  
+   Skilled in wireless communication technologies such as **BLE**, **ESP-NOW**, **Zigbee**, and **MQTT**, enabling smart device connectivity.
 
-🌐 **Cloud Integration** – I connect devices with cloud platforms for real-time monitoring and remote control.
+- 🌐 **Cloud-Connected Solutions**  
+   Proficient in integrating cloud platforms like **AWS IoT** and **Google Cloud** for remote monitoring and control.
 
-🛠 **Problem Solver** – I enjoy debugging, testing, and optimizing embedded systems to get the best performance.
-
----
-
-## 💻 Languages & Technologies
-
-- **Languages**: C, C++, Python, JavaScript, QML
-- **Microcontrollers**: ESP32, STM32, NRF52, PIC, 8051, Raspberry Pi
-- **Protocols**: BLE, ESP-NOW, Zigbee, LoRa, MQTT
-- **IDEs & Tools**: VS Code, PlatformIO, STM32CubeIDE, Arduino IDE, Keil, MPLAB, NRF Connect
-- **Clouds**: AWS IoT, Google Cloud
-- **Databases**: PostgreSQL, Firebase
-
-
-### 🔗 Let's Connect
-
-- 📧 Email: your.email@example.com  
-- 🌐 Portfolio: [YourWebsite.com](https://yourwebsite.com)  
-- 📝 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🛠 **Problem Solver**  
+   Passionate about debugging, optimizing performance, and pushing hardware to its limits.
 
 ---
 
-Thanks for visiting my profile!
+## 💻 Skills & Technologies
 
+- **Languages**: C, C++, Python, JavaScript, QML  
+- **Microcontrollers**: ESP32, STM32, NRF52, PIC, 8051, Raspberry Pi  
+- **Communication Protocols**: BLE, ESP-NOW, Zigbee, LoRa, MQTT  
+- **Tools & IDEs**: PlatformIO, VS Code, STM32CubeIDE, Arduino, Keil, MPLAB, NRF Connect  
+- **Cloud Platforms**: AWS IoT, Google Cloud  
+- **Databases**: PostgreSQL, Firebase  
+
+---
+
+## 🔗 Let’s Connect
+
+- 📧 **Email**: your.email@example.com  
+- 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+
+---
+
+Thank you for stopping by! 🚀  
+Feel free to explore my repositories and connect for collaboration or professional opportunities.
