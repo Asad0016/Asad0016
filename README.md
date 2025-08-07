@@ -74,6 +74,43 @@ In this project, I developed a wireless data communication system using **Zigbee
 [//]: # (Code not shared publicly for confidentiality. You can contact me to discuss the implementation.)
 
 ---
+# BLE and ESP-NOW Based Wireless Audio Communication
+
+This project showcases a **real-time wireless audio communication system** using **ESP32-S3 microcontrollers**, leveraging **custom BLE services** and the **ESP-NOW protocol**.
+
+## 🧠 Project Overview
+
+A custom **Bluetooth Low Energy (BLE)** service was developed on the ESP32-S3 and interfaced with the **nRF Connect mobile application**. Using this app, specific commands were sent to the ESP32. The key command, **"Start Communication"**, triggered wireless audio streaming functionality.
+
+Once activated:
+
+- The **server-side ESP32-S3**, connected to a **microphone**, captured audio samples.
+- Audio data was packed into buffers and transmitted wirelessly using **ESP-NOW** to the **client-side ESP32-S3**.
+- The **client ESP32** decoded the received audio buffers and played them in real-time using an **audio amplifier**.
+
+This approach repurposes **ESP-NOW**, typically used for control signals, to handle **real-time audio streaming**, which is both bandwidth-intensive and time-sensitive.
+
+## 🚀 Features
+
+- ✅ **Custom BLE service** with command-based control
+- 📶 **Real-time wireless audio streaming** using ESP-NOW
+- 🎙️ **Microphone-based audio capture**
+- 🔊 **Audio playback through amplifier**
+- ⚙️ Developed using **ESP-IDF** for bare-metal firmware control
+
+## 🔧 Technologies Used
+
+- **ESP32-S3**
+- **ESP-IDF**
+- **nRF Connect (mobile BLE app)**
+- **BLE (Bluetooth Low Energy)**
+- **ESP-NOW protocol**
+
+## 📂 Repository Structure
+
+> _Note: Code is not included here. This repository serves as a project showcase._
+
+
 
 
 
