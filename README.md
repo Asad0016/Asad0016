@@ -42,6 +42,40 @@ Welcome to my GitHub profile! I specialize in embedded systems and firmware deve
 - **Databases**: PostgreSQL, Firebase  
 
 ---
+# 📁 Projects
+
+---
+
+## 🔌 Zigbee-Based Wireless Monitoring System (ESP32-C6)
+
+In this project, I developed a wireless data communication system using **Zigbee protocol** between a **Coordinator (Server)** and a **Router (Client)**.
+
+### 📡 Project Overview:
+
+- **Router (Client)**:
+  - Acts as a **Zigbee Router** using `ESP32-C6` with the **ESP-IDF framework**.
+  - Collects real-time current readings using a **Current Transformer (CT Sensor)**.
+  - Sends the sensor data wirelessly to the Coordinator.
+
+- **Coordinator (Server)**:
+  - Also based on `ESP32-C6` configured as a **Zigbee Coordinator**.
+  - Receives the current readings from the router node.
+  - Can be expanded to log data, visualize trends, or trigger actions.
+
+### ⚙️ Technologies Used:
+- **ESP32-C6** (with Zigbee support)
+- **ESP-IDF** (Espressif IoT Development Framework)
+- **Zigbee Protocol**
+- **Current Transformer (CT) Sensor**
+- **UART & Wireless Communication**
+
+> 📌 *This project demonstrates wireless sensor communication using Zigbee for applications like smart metering, energy monitoring, and home automation.*
+
+[//]: # (Code not shared publicly for confidentiality. You can contact me to discuss the implementation.)
+
+---
+
+
 
 ## 🔗 Let’s Connect
 
