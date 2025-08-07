@@ -109,10 +109,3 @@ This approach repurposes **ESP-NOW**, typically used for control signals, to han
 
 > _Note: Code is not included here. This repository serves as a project showcase._
 
-
-
-
-
-## 🔗 Let’s Connect
-
-- 📧 **Email**: asadali56656@gmail.com  
