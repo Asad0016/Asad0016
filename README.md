@@ -1,4 +1,3 @@
-![GitHub Banner](./banner.png) <!-- Replace with your banner image filename -->
 
 # 👋 ASAD ULLAH: EMBEDDED FIRMWARE ENGINEER
 
