@@ -1,7 +1,9 @@
-# 👋 Hello, I'm Asad!
+# 👋 ASAD ULLAH: EMBEDDED FIRMWARE ENGINEER
 
-> "There are 10 types of people in the world: those who understand binary, and those who don’t." 😎
+>"Never Give Up" 😎
+## 📸 Preview
 
+![GitHub Banner]([https://your-image-link-here.com/banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dmicrocontroller&psig=AOvVaw1VVEmLtP62-9jKTT6Qbhtz&ust=1754650432798000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiCw7HE-I4DFQAAAAAdAAAAABAE)) <!-- Replace with your actual image URL -->
 Welcome to my GitHub world! Here, I work at the intersection of code and hardware, building smart and connected solutions using embedded systems and IoT technologies.
 
 ---
@@ -29,9 +31,7 @@ Welcome to my GitHub world! Here, I work at the intersection of code and hardwar
 
 ---
 
-## 📸 Preview
 
-![GitHub Banner](https://your-image-link-here.com/banner.png) <!-- Replace with your actual image URL -->
 
 ---
 
