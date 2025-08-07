@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I specialize in embedded systems and firmware deve
 ---
 # 📁 Projects
 
----
+
 
 ## 🔌 Zigbee-Based Wireless Monitoring System (ESP32-C6)
 
