@@ -3,6 +3,7 @@
 # 👋 ASAD ULLAH: EMBEDDED FIRMWARE ENGINEER
 
 > *"Never Give Up"* 😎
+---
 
 ![My Image](360_F_460636484_5KLRqy4CgptG7Bt4S1nY80v7tPm3e5Tm.jpg)
 
@@ -41,11 +42,4 @@ Welcome to my GitHub profile! I specialize in embedded systems and firmware deve
 
 ## 🔗 Let’s Connect
 
-- 📧 **Email**: your.email@example.com  
-- 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-
----
-
-Thank you for stopping by! 🚀  
-Feel free to explore my repositories and connect for collaboration or professional opportunities.
+- 📧 **Email**: asadali56656@gmail.com  
