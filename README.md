@@ -5,7 +5,10 @@
 > *"Never Give Up"* 😎
 ---
 
-![My Image](360_F_460636484_5KLRqy4CgptG7Bt4S1nY80v7tPm3e5Tm.jpg)
+<p align="center">
+  <img src="360_F_460636484_5KLRqy4CgptG7Bt4S1nY80v7tPm3e5Tm.jpg" alt="My Image">
+</p>
+
 
 ---
 
