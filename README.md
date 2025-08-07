@@ -4,13 +4,13 @@
 
 > *"Never Give Up"* 😎
 
----
+![My Image](360_F_460636484_5KLRqy4CgptG7Bt4S1nY80v7tPm3e5Tm.jpg)
 
-## 📸 Preview
+---
 
 Welcome to my GitHub profile! I specialize in embedded systems and firmware development, combining hardware and software to create intelligent, connected solutions. Whether it's IoT devices, wireless communication, or real-time embedded applications — this is where innovation happens.
 
----
+
 
 ## 🔧 About Me
 
