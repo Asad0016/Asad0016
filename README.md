@@ -1,109 +1,113 @@
-# 👋 ASAD ULLAH: EMBEDDED FIRMWARE ENGINEER
-
-> *"Never Give Up"* 😎
----
+# 👾 Asad Ullah: Embedded Firmware Engineer 👾
 
 <p align="center">
-  <img src="360_F_460636484_5KLRqy4CgptG7Bt4S1nY80v7tPm3e5Tm.jpg" alt="My Image">
+  <img src="360_F_460636484_5KLRqy4CgptG7Bt4S1nY80v7tPm3e5Tm.jpg" alt="Embedded Firmware Engineer" /> 
 </p>
 
+> "Never Give Up" 😎
+
+### Welcome to my embedded universe! 🛠️ Where hardware, firmware, and smart connectivity come together to power the next generation of IoT solutions.
+
+I'm **Asad Ullah**, an **Embedded Firmware Engineer** who loves turning raw silicon into intelligent, real-world devices. From low-level microcontroller code to full IoT systems, I focus on building clean, efficient, and reliable solutions that just work — no matter how tough the environment.
+
+## 🔥 Who am I?
+
+- 🎯 **Embedded Firmware Developer** – I write optimized C/C++ firmware for microcontrollers, making sure every clock cycle counts in real-time applications.
+- 🛠 **Hardware Specialist** – Deep experience with STM32, ESP32, NRF, and other platforms to squeeze maximum performance from limited resources.
+- 📡 **Wireless Connectivity Expert** – I design robust communication systems using BLE, ESP-NOW, LoRa, MQTT and more for seamless device networking.
+- 🌐 **IoT System Builder** – I connect hardware to the cloud (AWS IoT, Google Cloud) so devices can be monitored, controlled, and scaled remotely.
 
 ---
 
-Welcome to my GitHub profile! I specialize in embedded systems and firmware development, combining hardware and software to create intelligent, connected solutions. Whether it's IoT devices, wireless communication, or real-time embedded applications — this is where innovation happens.
+- **Languages**:  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
+</p>
 
+- **Microcontroller / Compute Modules**:
+  <p align="center">
+  <img src="https://www.arm.com/-/media/global/Why%20Arm/partner/Partner%20Ecosystem/catalog/stmicroelectronics/ST_logo_2020_blue_no_tagline.png?rev=26e1b1ff67284817bf8082993014dbea&revision=26e1b1ff-6728-4817-bf80-82993014dbea" alt="STM32" width="100" />
+  <img src="https://i.pinimg.com/originals/b4/a9/f7/b4a9f736f62c24d599f7cb747980ab45.png" alt="ESP32" width="60" height="60"/>
+  <img src="https://companieslogo.com/img/orig/MCHP-167156da.png?t=1720244492" alt="PIC" width="60" height="60"/>
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/atmel-logo-vector.svg" alt="Atmel" width="80" height="60"/>
+  <img src="https://companieslogo.com/img/orig/NOD.OL-cab5b4b7.png?t=1720244493" alt="NRF" width="60" height="60"/>
+  <img src="https://junwatu.gallerycdn.vsassets.io/extensions/junwatu/8051/0.1.0/1499505580682/Microsoft.VisualStudio.Services.Icons.Default" alt="8051" width="60" height="60"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/raspberry-pi-logo-svg-vector.svg" alt="Pi" width="50" height="60"/>
+  <img src="https://cdn.changelog.com/uploads/icons/news_sources/Ddj/icon_large.png?v=63711078413" alt="Pi" width="60"/>
+</p>
 
+- **Protocols**:  
+  - **Wireless**:
+    <p align="center">
+      <img src="https://cdncloudcart.com/6767/product_categories/images/57/57_600x600.png?1704184299" alt="BLE" width="60" />
+      <img src="https://ww1.aurbot.com/wp-content/uploads/2020/09/LoRa-logo2.png" alt="Lora" width="70" />
+      <img src="https://www.aranacorp.com/wp-content/uploads/espnow-logo.png" alt="esp now" width="70" /> 
+      <img src="https://mqtt.org/assets/downloads/mqtt-ver.png" alt="mqtt" width="70" /> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/2560px-HTTP_logo.svg.png" alt="http" width="70" /> 
+      <img src="https://eodhd.com/financial-apis/wp-content/uploads/2021/10/Real-Time-Data-API-WebSockets.png" alt="websockets" width="70" /> 
+      <img src="https://www.striim.com/wp-content/themes/striim2022/images/connectors_icons/white/udp.png" alt="udp" width="70" /> 
+    </p>
 
-## 🔧 About Me
+- **IDE's / Code Editors / Frameworks**:
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/16562333/54928769-ba986300-4f14-11e9-91d7-ecc6640d1989.png" alt="STM Cube" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/ru/f/f6/QtCreatorIcon.png" alt="QT Creator" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="60" height="60"/>
+  <img src="https://logos-download.com/wp-content/uploads/2022/12/Keil_Logo.png" alt="Keil" width="150" height="60"/>
+  <img src="https://image.pngaaa.com/992/7669992-middle.png" alt="MPLAB" width="60" height="60"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="Espressif" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" alt="PlatformIO" width="60" height="60"/>
+  <img src="https://play-lh.googleusercontent.com/jsA0__ze6_fQ9kN2Wt1Ze_vkbmMa50t6uwcuIcp2YPKxJVuSbgcG25T_zWqCoOY2AQ=w240-h480-rw" alt="NRF Connect" width="60" height="60"/>
+</p>
 
-- 🎯 **Embedded Systems Developer**  
-   Experienced with microcontrollers like **ESP32**, **STM32**, and **AVR**, focused on writing efficient low-level firmware for real-time systems.
+- **Clouds**:
+  <p align="center">
+    <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="100" height="60"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-google-cloud-logo-icon-download-in-svg-png-gif-file-formats--weather-storage-data-pack-logos-icons-1721675.png?f=webp&w=256" alt="Google Cloud" width="60"/>
+    <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck.png" alt="Firebase" width="50"/>
+  </p>
 
-- 📡 **IoT Integrator**  
-   Skilled in wireless communication technologies such as **BLE**, **ESP-NOW**, **Zigbee**, and **MQTT**, enabling smart device connectivity.
-
-- 🌐 **Cloud-Connected Solutions**  
-   Proficient in integrating cloud platforms like **AWS IoT** and **Google Cloud** for remote monitoring and control.
-
-- 🛠 **Problem Solver**  
-   Passionate about debugging, optimizing performance, and pushing hardware to its limits.
+- **Tools**:
+    <p align="center">
+      <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" alt="github" width="60" height="60"/>
+      <img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" alt="gitlab" width="60" height="60"/>
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="60" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" alt="jenkins" width="40" height="60"/>
+    </p>
 
 ---
 
-## 💻 Skills & Technologies
+### 🚀 Projects
 
-- **Languages**: C, C++, Python, JavaScript, QML  
-- **Microcontrollers**: ESP32, STM32, NRF52, PIC, 8051, Raspberry Pi  
-- **Communication Protocols**: BLE, ESP-NOW, Zigbee, LoRa, MQTT  
-- **Tools & IDEs**: PlatformIO, VS Code, STM32CubeIDE, Arduino, Keil, MPLAB, NRF Connect  
-- **Cloud Platforms**: AWS IoT, Google Cloud  
-- **Databases**: PostgreSQL, Firebase  
+#### Open Source
+**Note**: Some are in development or in the pipeline as my cross-platform embedded drivers/libraries.
 
----
-# 📁 Projects
+| Project Name               | Description                                                        | GitHub Link                                                                |
+| -------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| `HMS_MQXXX_DRIVER`         | Lightweight, cross-platform Gas Detection (ESP32, STM32, nRF52).   | [GitHub Repo](https://github.com/Hamas888/HMS_MQXXX_DRIVER)                |
+| `HMS_SoilSensor_DRIVER`    | Lightweight, cross-platform Soil Moisture (ESP32, STM32, nRF52).   | [GitHub Repo](https://github.com/Hamas888/HMS_SoilSensor_DRIVER)           |
+| `HMS_BH17XX_DRIVER`        | Lightweight, cross-platform Light Intensity (ESP32, STM32, nRF52). | [GitHub Repo](https://github.com/Hamas888/HMS_BH17XX_DRIVER)               |
 
+#### Professional Projects
 
+| Project Name | Description | Status / Link |
+|--------------|-------------|---------------|
 
-## 🔌 Zigbee-Based Wireless Monitoring System (ESP32-C6)
-
-In this project, I developed a wireless data communication system using **Zigbee protocol** between a **Coordinator (Server)** and a **Router (Client)**.
-
-### 📡 Project Overview:
-
-- **Router (Client)**:
-  - Acts as a **Zigbee Router** using `ESP32-C6` with the **ESP-IDF framework**.
-  - Collects real-time current readings using a **Current Transformer (CT Sensor)**.
-  - Sends the sensor data wirelessly to the Coordinator.
-
-- **Coordinator (Server)**:
-  - Also based on `ESP32-C6` configured as a **Zigbee Coordinator**.
-  - Receives the current readings from the router node.
-  - Can be expanded to log data, visualize trends, or trigger actions.
-
-### ⚙️ Technologies Used:
-- **ESP32-C6** (with Zigbee support)
-- **ESP-IDF** (Espressif IoT Development Framework)
-- **Zigbee Protocol**
-- **Current Transformer (CT) Sensor**
-- **UART & Wireless Communication**
-
-> 📌 *This project demonstrates wireless sensor communication using Zigbee for applications like smart metering, energy monitoring, and home automation.*
-
-[//]: # (Code not shared publicly for confidentiality. You can contact me to discuss the implementation.)
+*(More professional work coming soon...)*
 
 ---
-# BLE and ESP-NOW Based Wireless Audio Communication
 
-This project showcases a **real-time wireless audio communication system** using **ESP32-S3 microcontrollers**, leveraging **custom BLE services** and the **ESP-NOW protocol**.
+**Ready to use!**  
+Just copy the entire code above and paste it into your `README.md` file inside the repository named `YourUsername/YourUsername` (replace `YourUsername` with your actual GitHub username).
 
-## 🧠 Project Overview
+**Tips before pushing:**
+1. Upload your image file `360_F_460636484_5KLRqy4CgptG7Bt4S1nY80v7tPm3e5Tm.jpg` to the same repository (root folder).
+2. The external images (icons) are already hosted and will load automatically.
+3. After committing, your new profile README will appear on https://github.com/YourUsername.
 
-A custom **Bluetooth Low Energy (BLE)** service was developed on the ESP32-S3 and interfaced with the **nRF Connect mobile application**. Using this app, specific commands were sent to the ESP32. The key command, **"Start Communication"**, triggered wireless audio streaming functionality.
-
-Once activated:
-
-- The **server-side ESP32-S3**, connected to a **microphone**, captured audio samples.
-- Audio data was packed into buffers and transmitted wirelessly using **ESP-NOW** to the **client-side ESP32-S3**.
-- The **client ESP32** decoded the received audio buffers and played them in real-time using an **audio amplifier**.
-
-This approach repurposes **ESP-NOW**, typically used for control signals, to handle **real-time audio streaming**, which is both bandwidth-intensive and time-sensitive.
-
-## 🚀 Features
-
-- ✅ **Custom BLE service** with command-based control
-- 📶 **Real-time wireless audio streaming** using ESP-NOW
-- 🎙️ **Microphone-based audio capture**
-- 🔊 **Audio playback through amplifier**
-- ⚙️ Developed using **ESP-IDF** for bare-metal firmware control
-
-## 🔧 Technologies Used
-
-- **ESP32-S3**
-- **ESP-IDF**
-- **nRF Connect (mobile BLE app)**
-- **BLE (Bluetooth Low Energy)**
-- **ESP-NOW protocol**
-
-## 📂 Repository Structure
-
-> _Note: Code is not included here. This repository serves as a project showcase._
+Want any small tweaks (different emoji, extra bullet, or your own repo links added)? Just tell me! 🚀
