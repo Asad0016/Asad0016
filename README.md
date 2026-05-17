@@ -99,7 +99,8 @@ I'm Asad Ullah, an Embedded Firmware Engineer who loves turning raw silicon into
 
 | Project Name | Description | Status / Link |
 |--------------|-------------|---------------|
+| **Smart DoorLock & Intercom** | Multi-authentication system (Face ID, RFID, Touch PIN) featuring real-time intercom services | [Active Repo](https://github.com/Asad0016/Smart-DoorLock-And-Intercom) |
 
-*(More professional work coming soon...)*
+
 
 ---
